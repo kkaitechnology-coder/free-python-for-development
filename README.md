@@ -65,3 +65,7 @@ Watch each lesson with the AI voice tutor at [oratorlab.in](https://oratorlab.in
 3. To keep your changes, use **File → Save a copy in Drive**.
 
 Notebooks are generated from the course content. Learn more at [oratorlab.in](https://oratorlab.in).
+
+## License
+
+[MIT](LICENSE) © OratorLab — free to use, share and adapt, keeping the copyright notice.
